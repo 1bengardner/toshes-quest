@@ -8,6 +8,6 @@ I wrote this game with a friend back in grade 10 when I was first learning Pytho
 
 ## Installation
 
-- Download [Python 2](https://www.python.org/downloads/release/python-2716/)
-- Download the files in this repository
-- Run _toshe.py_
+1. Download [Python 2](https://www.python.org/downloads/release/python-2716/)
+1. Download the files in this repository
+1. Run _toshe.py_
